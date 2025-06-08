@@ -22,11 +22,12 @@ From simulating obstacle-aware trajectories to deploying embedded controllers fo
 
 ---
 
-## 📁 Past Projects
+## 📁 Projects
 
 
 ### Time Varing Model Predictive Control for Real-Time Planning in Dynamic Environments
 
+TBD, Credential Before the Submission
 
 ### Autonomous Tracking Gym Robot
 
