@@ -19,6 +19,26 @@ I’m passionate about building intelligent robotic systems that navigate dynami
 
 From simulating obstacle-aware trajectories to deploying embedded controllers for real-world robots, I thrive at the intersection of mechanical design and intelligent control.
 
+
+---
+
+## 📁 Past Projects
+
+
+### Time Varing Model Predictive Control for Real-Time Planning in Dynamic Environments
+
+
+### Autonomous Tracking Gym Robot
+
+
+### 3D Visualization of Fruits using NeRF for Smart Farms
+
+
+### Test Frame Full-stack Lab Software
+
+
+### Thermal Camera Synchronization
+
 ---
 
 ## 🔬 Research Experience
@@ -55,9 +75,9 @@ From simulating obstacle-aware trajectories to deploying embedded controllers fo
 
 ## 📫 Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 📧 geonwoo.kim@example.com  
-- 🌐 [Personal Website](https://yourwebsite.com) *(if available)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/geonwoo-kim)  
+- 📧 ggannuuu@gmail.com  
+- 🌐 [Personal Website](https://ggannuuu.com)
 
 ---
 
