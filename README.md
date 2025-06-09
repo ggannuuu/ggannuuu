@@ -38,7 +38,7 @@ TBD, Credential before the Submission
 
 
 ### [Test Frame Full-stack Lab Software](https://github.com/ggannuuu/Test-Frame)
-<img src="assets/test_frame_ui_cap.jpg" width="488" height="224"/>
+<img src="assets/test_frame_ui_cap.jpg" width="732" height="336"/>
 A complete software suite for controlling and collecting data from a custom material testing frame.
 
 - 🖥️ Front-end: PyQt5-based GUI for real-time interaction and visualization
