@@ -27,7 +27,7 @@ From simulating obstacle-aware trajectories to deploying embedded controllers fo
 
 ### Time Varing Model Predictive Control for Real-Time Planning in Dynamic Environments
 
-TBD, Credential Before the Submission
+TBD, Credential before the Submission to the Conference
 
 ### [Autonomous Tracking Gym Robot](https://github.com/geonwoo3/gymbot_ros)
 
