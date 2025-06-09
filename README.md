@@ -32,13 +32,13 @@ TBD, Credential Before the Submission
 ### Autonomous Tracking Gym Robot
 
 
-### 3D Visualization of Fruits using NeRF for Smart Farms
+### [3D Visualization of Fruits using NeRF for Smart Farms](https://github.com/ggannuuu/NeRF_SmartFarm)
 
 
-### Test Frame Full-stack Lab Software
+### [Test Frame Full-stack Lab Software](https://github.com/ggannuuu/Test-Frame)
 
 
-[▶️ Watch Demo on YouTube]([https://www.youtube.com/watch?v=66HWL49Xx-E)]
+[▶️ Watch Demo on YouTube]([https://www.youtube.com/watch?v=66HWL49Xx-E)
 
 ### Thermal Camera Synchronization
 
