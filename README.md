@@ -31,7 +31,7 @@ From simulating obstacle-aware trajectories to deploying embedded controllers fo
 
 TBD, Credential before the Submission
 
-<hr style="border: 0.25px solid #f2f2f2; margin: 12px 0;" />
+
 
 
 ### [Autonomous Tracking Gym Robot](https://github.com/geonwoo3/gymbot_ros)
