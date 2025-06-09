@@ -27,6 +27,8 @@ From simulating obstacle-aware trajectories to deploying embedded controllers fo
 
 ### Time Varing Model Predictive Control for Real-Time Planning in Dynamic Environments
 
+![Collision Avoidance Simulation](assets/mpc_pcip_moving_target_obstacles.gif)
+
 TBD, Credential before the Submission
 
 ### [Autonomous Tracking Gym Robot](https://github.com/geonwoo3/gymbot_ros)
@@ -37,6 +39,7 @@ TBD, Credential before the Submission
 
 ### [Test Frame Full-stack Lab Software](https://github.com/ggannuuu/Test-Frame)
 
+![User Interface](assets/test_frame_ui_cap.jpg)
 
 [▶️ Watch Demo on YouTube](https://www.youtube.com/watch?v=66HWL49Xx-E)
 
