@@ -36,10 +36,28 @@ TBD, Credential before the Submission
 
 ### [Autonomous Tracking Gym Robot](https://github.com/geonwoo3/gymbot_ros)
 
+A mobile robot designed to autonomously follow users in indoor gym environments by combining Ultra-Wideband (UWB) positioning with LiDAR-based obstacle avoidance. Built using ROS, the system integrates real-time localization, trajectory planning, and motor control to enable safe, smooth, and responsive tracking in cluttered indoor spaces.
+
+📡 UWB-based real-time user tracking
+
+🧭 LiDAR-assisted dynamic obstacle avoidance
+
+🔧 ROS-powered architecture with modular control nodes
+
+⚙️ Hardware: ESP32 UWB, RPLiDAR, Raspberry Pi, DC motor chassis
 
 
 ### [3D Visualization of Fruits using NeRF for Smart Farms](https://github.com/ggannuuu/NeRF_SmartFarm)
 
+This project applies Neural Radiance Fields (NeRF) to reconstruct high-fidelity 3D models of fruits from 2D images, enabling advanced perception in smart agriculture systems. Trained on the Blender dataset and optimized for custom fruit datasets, the model generates novel views and supports precision farming applications.
+
+🧠 NeRF implemented in PyTorch with positional encoding
+
+🍎 Enables 3D understanding of fruit shapes for harvesting and monitoring
+
+🖼️ Trained on multi-view synthetic and real-world datasets
+
+🎥 Includes rendering animations and camera path interpolation tools
 
 
 ### [Test Frame Full-stack Lab Software](https://github.com/ggannuuu/Test-Frame)
