@@ -38,7 +38,7 @@ TBD, Credential before the Submission
 
 
 ### [Test Frame Full-stack Lab Software](https://github.com/ggannuuu/Test-Frame)
-
+<img src="assets/test_frame_ui_cap.jpg" width="600" height="400"/>
 ![User Interface](assets/test_frame_ui_cap.jpg)
 
 [▶️ Watch Demo on YouTube](https://www.youtube.com/watch?v=66HWL49Xx-E)
