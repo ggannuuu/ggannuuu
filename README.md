@@ -25,7 +25,7 @@ From simulating obstacle-aware trajectories to deploying embedded controllers fo
 ## 📁 Projects
 
 
-### Time Varing Model Predictive Control for Real-Time Planning in Dynamic Environments
+### Time Varing Model Predictive Control for Real-Time Planning in Dynamic Environments (In Progress)
 <img src="assets/mpc_pcip_moving_target_obstacles.gif" width="400" height="400"/>
 
 
