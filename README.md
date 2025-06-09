@@ -29,7 +29,7 @@ From simulating obstacle-aware trajectories to deploying embedded controllers fo
 
 TBD, Credential Before the Submission
 
-### Autonomous Tracking Gym Robot
+### [Autonomous Tracking Gym Robot](https://github.com/geonwoo3/gymbot_ros)
 
 
 ### [3D Visualization of Fruits using NeRF for Smart Farms](https://github.com/ggannuuu/NeRF_SmartFarm)
