@@ -39,9 +39,25 @@ TBD, Credential before the Submission
 
 ### [Test Frame Full-stack Lab Software](https://github.com/ggannuuu/Test-Frame)
 <img src="assets/test_frame_ui_cap.jpg" width="488" height="224"/>
+A complete software suite for controlling and collecting data from a custom material testing frame.
 
+- 🖥️ Front-end: PyQt5-based GUI for real-time interaction and visualization
 
-[▶️ Watch Demo on YouTube](https://www.youtube.com/watch?v=66HWL49Xx-E)
+- 🧠 Back-end: Python-based computation for stress, strain, and data handling
+
+- ⚙️ Hardware Control: Arduino C++ code for precise test frame actuation
+
+- 📊 Key Features:
+
+  - Multiple testing modes: Continuous, Manual, Timer
+
+  - Real-time force-time plotting and terminal feedback
+
+  - Emergency stop, auto-zeroing, and CSV data export
+
+- 🎯 Designed For: Material testing experiments in academic or research settings
+
+- [▶️ Watch Demo on YouTube](https://www.youtube.com/watch?v=66HWL49Xx-E)
 
 ### Thermal Camera Synchronization
 
