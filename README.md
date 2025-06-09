@@ -24,18 +24,23 @@ From simulating obstacle-aware trajectories to deploying embedded controllers fo
 
 ## 📁 Projects
 
-
+---
 ### Time Varing Model Predictive Control for Real-Time Planning in Dynamic Environments
 <img src="assets/mpc_pcip_moving_target_obstacles.gif" width="400" height="400"/>
 
 
 TBD, Credential before the Submission
 
+---
+
+
 ### [Autonomous Tracking Gym Robot](https://github.com/geonwoo3/gymbot_ros)
 
+---
 
 ### [3D Visualization of Fruits using NeRF for Smart Farms](https://github.com/ggannuuu/NeRF_SmartFarm)
 
+---
 
 ### [Test Frame Full-stack Lab Software](https://github.com/ggannuuu/Test-Frame)
 <img src="assets/test_frame_ui_cap.jpg" width="732" height="336"/>
@@ -58,6 +63,8 @@ A complete software suite for controlling and collecting data from a custom mate
 - 🎯 Designed For: Material testing experiments in academic or research settings
 
 - [▶️ Watch Demo on YouTube](https://www.youtube.com/watch?v=66HWL49Xx-E)
+
+---
 
 ### Thermal Camera Synchronization
 
