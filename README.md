@@ -38,6 +38,8 @@ TBD, Credential Before the Submission
 ### Test Frame Full-stack Lab Software
 
 
+[▶️ Watch Demo on YouTube]([https://www.youtube.com/watch?v=66HWL49Xx-E)]
+
 ### Thermal Camera Synchronization
 
 ---
