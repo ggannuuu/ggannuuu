@@ -84,7 +84,7 @@ A complete software suite for controlling and collecting data from a custom mate
 
 
 
-### Thermal Camera Synchronization
+### [Thermal Camera Synchronization](https://github.com/tag-nav/flir_boson_pub)
 
 ---
 
