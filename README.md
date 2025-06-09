@@ -86,6 +86,16 @@ A complete software suite for controlling and collecting data from a custom mate
 
 ### [Thermal Camera Synchronization](https://github.com/tag-nav/flir_boson_pub)
 
+Contributed to a research project focused on synchronizing FLIR thermal cameras with external triggers for time-aligned image capture in robotics experiments. My role included:
+
+🔧 Hardware Integration: Configured FLIR Boson and auxiliary cameras for synchronized frame capture using external GPIO triggers
+
+🖥️ Software Development: Developed Python scripts using the FLIR Boson SDK to automate image acquisition and timestamp alignment
+
+⏱️ Signal Timing Optimization: Calibrated trigger delays and validated frame synchronization accuracy across devices
+
+📊 Application: Enabled reliable thermal data collection for robot perception and multi-sensor fusion in dynamic environments
+
 ---
 
 ## 🔬 Research Experience
