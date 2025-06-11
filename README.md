@@ -51,7 +51,7 @@ A mobile robot designed to autonomously follow users in indoor gym environments 
 
 <img src="assets/NeRF_tomato_rendering.gif" width="300" height="300"/>
 
-<img src="NeRF_convergence_epoch.gif" width="350" height="350"/>
+<img src="assets/NeRF_convergence_epoch.gif" width="350" height="350"/>
 
 This project applies Neural Radiance Fields (NeRF) to reconstruct high-fidelity 3D models of fruits from 2D images, enabling advanced perception in smart agriculture systems. Trained on the Blender dataset and optimized for custom fruit datasets, the model generates novel views and supports precision farming applications.
 
