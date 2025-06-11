@@ -34,7 +34,7 @@ TBD, Credential before the Submission
 
 
 ### [Autonomous Tracking Gym Robot](https://github.com/geonwoo3/gymbot_ros)
-<img src="assets/NeRF_tomato_rendering.gif" width="300" height="300"/>
+
 
 A mobile robot designed to autonomously follow users in indoor gym environments by combining Ultra-Wideband (UWB) positioning with LiDAR-based obstacle avoidance. Built using ROS, the system integrates real-time localization, trajectory planning, and motor control to enable safe, smooth, and responsive tracking in cluttered indoor spaces.
 
@@ -48,6 +48,8 @@ A mobile robot designed to autonomously follow users in indoor gym environments 
 
 
 ### [3D Visualization of Fruits using NeRF for Smart Farms](https://github.com/ggannuuu/NeRF_SmartFarm)
+
+<img src="assets/NeRF_tomato_rendering.gif" width="300" height="300"/>
 
 This project applies Neural Radiance Fields (NeRF) to reconstruct high-fidelity 3D models of fruits from 2D images, enabling advanced perception in smart agriculture systems. Trained on the Blender dataset and optimized for custom fruit datasets, the model generates novel views and supports precision farming applications.
 
