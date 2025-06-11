@@ -26,8 +26,7 @@ From simulating obstacle-aware trajectories to deploying embedded controllers fo
 
 
 ### Time Varing Model Predictive Control for Real-Time Planning in Dynamic Environments (In Progress)
-<img src="assets/NeRF_tomato_rendering.gif" width="400" height="400"/>
-
+<img src="assets/mpc_pcip_moving_target_obstacles.gif" width="400" height="400"/>
 
 TBD, Credential before the Submission
 
@@ -35,8 +34,7 @@ TBD, Credential before the Submission
 
 
 ### [Autonomous Tracking Gym Robot](https://github.com/geonwoo3/gymbot_ros)
-
-<img src="assets/mpc_pcip_moving_target_obstacles.gif" width="400" height="400"/>
+<img src="assets/NeRF_tomato_rendering.gif" width="300" height="300"/>
 
 A mobile robot designed to autonomously follow users in indoor gym environments by combining Ultra-Wideband (UWB) positioning with LiDAR-based obstacle avoidance. Built using ROS, the system integrates real-time localization, trajectory planning, and motor control to enable safe, smooth, and responsive tracking in cluttered indoor spaces.
 
