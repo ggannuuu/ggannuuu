@@ -55,7 +55,9 @@ A mobile robot designed to autonomously follow users in indoor gym environments 
 
 🔧 ROS-powered architecture with modular control nodes
 
-⚙️ Hardware: ESP32 UWB, RPLiDAR, Raspberry Pi, DC motor chassis
+🧠 Model Predictive Control based path planning
+
+⚙️ Hardware: ESP32 UWB, RPLiDAR, Raspberry Pi, DC motor chassis, 3D-Printed Casing
 
 
 ### [3D Visualization of Fruits using NeRF for Smart Farms](https://github.com/ggannuuu/NeRF_SmartFarm)
@@ -63,11 +65,6 @@ A mobile robot designed to autonomously follow users in indoor gym environments 
 <img src="assets/NeRF_tomato_rendering.gif" width="300" height="300"/>
 
 **NeRF-Based 3D Reconstruction of Tomato Plant**
-
-<img src="assets/NeRF_convergence_epoch.gif" width="350" height="350"/>
-
-**Convergence of NeRF over 50 Epochs**
-
 
 
 
@@ -80,6 +77,11 @@ This project applies Neural Radiance Fields (NeRF) to reconstruct high-fidelity 
 🖼️ Trained on multi-view synthetic and real-world datasets
 
 🎥 Includes rendering animations and camera path interpolation tools
+
+
+<img src="assets/NeRF_convergence_epoch.gif" width="350" height="350"/>
+
+**Convergence of NeRF over 50 Epochs**
 
 
 ### [Test Frame Full-stack Lab Software](https://github.com/ggannuuu/Test-Frame)
@@ -117,20 +119,6 @@ Contributed to a research project focused on synchronizing FLIR thermal cameras 
 ⏱️ Signal Timing Optimization: Calibrated trigger delays and validated frame synchronization accuracy across devices
 
 📊 Application: Enabled reliable thermal data collection for robot perception and multi-sensor fusion in dynamic environments
-
----
-
-## 🔬 Research Experience
-
-### 🤖 Autonomous Systems & Robotics
-- Developed simulation environments for **real-time MPC** and **L1 Adaptive Optimization**  
-- Implemented dynamic obstacle management using Python and ROS  
-- Integrated UWB and Lidar sensing for real-time localization and environment mapping  
-
-### ⚙️ Controls & Mechatronics
-- Designed a **tensile test system** with load cell feedback and motor control  
-- Built interfaces for real-time experimentation and visualization  
-- Applied control theory for practical automation tasks in research labs  
 
 ---
 
