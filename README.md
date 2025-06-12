@@ -70,6 +70,13 @@ A mobile robot designed to autonomously follow users in indoor gym environments 
   <figcaption align="center"><b>Convergence of NeRF over 50 Epochs</b></figcaption>
 </figure>
 
+
+<figure>
+  <img src="assets/NeRF_tomato_rendering.gif" width="300" height="300"/>
+  <figcaption align="center"><b>NeRF-Based 3D Reconstruction of Tomato Plant</b></figcaption>
+</figure>
+
+
 This project applies Neural Radiance Fields (NeRF) to reconstruct high-fidelity 3D models of fruits from 2D images, enabling advanced perception in smart agriculture systems. Trained on the Blender dataset and optimized for custom fruit datasets, the model generates novel views and supports precision farming applications.
 
 🧠 NeRF implemented in PyTorch with positional encoding
