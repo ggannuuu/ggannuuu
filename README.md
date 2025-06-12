@@ -2,7 +2,6 @@
 
 🎓 Recent graduate from the University of Illinois at Urbana-Champaign  
 🔧 B.S. in Mechanical Engineering
-
 🔬 Currently undergraduate researcher in [Advanced Control Research Lab](https://naira.mechse.illinois.edu/)
 
 ---
