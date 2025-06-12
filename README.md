@@ -8,17 +8,28 @@
 
 ## 💡 About Me
 
-I’m passionate about building intelligent robotic systems that navigate dynamic environments. My academic journey and hands-on research have centered around:
+I’m an engineer and researcher driven by a deep interest in intelligent systems, autonomy, and software innovation. My academic and hands-on experiences span across robotics, machine learning, and embedded programming—equipping me with a multidisciplinary foundation to design, build, and deploy robust, real-world solutions.
 
-- **Motion Planning** and **Model Predictive Control (MPC)**
-- **L1 Adaptive Control** and real-time optimization
-- **Sensor Fusion** using Lidar and Ultra-Wideband (UWB)
-- **Dynamic Obstacle Avoidance** in simulation and hardware
-- **Embedded Systems** with Arduino, ESP32, and Raspberry Pi
-- **Autonomous Driving Algorithms** and path prediction
+I enjoy working at the intersection of algorithms, software, and hardware, and have contributed to projects involving:
+
+**Robotics and Autonomy**, including motion planning, control systems, and path optimization
+
+**Software Development** for real-time systems and simulation environments
+
+**Machine Learning & Perception**, with a focus on learning-based navigation and 3D reconstruction
+
+**Sensor Integration and Sensor Fusion** using tools like Lidar, cameras, and UWB
+
+**Embedded Systems** using microcontrollers and IoT
+
+**System Integration** across ROS-based platforms and hardware-in-the-loop experiments
 
 From simulating obstacle-aware trajectories to deploying embedded controllers for real-world robots, I thrive at the intersection of mechanical design and intelligent control.
 
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 ---
 
@@ -49,9 +60,15 @@ A mobile robot designed to autonomously follow users in indoor gym environments 
 
 ### [3D Visualization of Fruits using NeRF for Smart Farms](https://github.com/ggannuuu/NeRF_SmartFarm)
 
-<img src="assets/NeRF_tomato_rendering.gif" width="300" height="300"/>
+<figure>
+  <img src="assets/NeRF_tomato_rendering.gif" width="300" height="300"/>
+  <figcaption align="center"><b>NeRF-Based 3D Reconstruction of Tomato Plant</b></figcaption>
+</figure>
 
-<img src="assets/NeRF_convergence_epoch.gif" width="350" height="350"/>
+<figure>
+  <img src="assets/NeRF_convergence_epoch.gif" width="350" height="350"/>
+  <figcaption align="center"><b>Convergence of NeRF over 50 Epochs</b></figcaption>
+</figure>
 
 This project applies Neural Radiance Fields (NeRF) to reconstruct high-fidelity 3D models of fruits from 2D images, enabling advanced perception in smart agriculture systems. Trained on the Blender dataset and optimized for custom fruit datasets, the model generates novel views and supports precision farming applications.
 
@@ -116,19 +133,13 @@ Contributed to a research project focused on synchronizing FLIR thermal cameras 
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-
----
-
 ## 🧰 Technical Skills
 
-**Programming:** Python, C++, JavaScript, MATLAB, ROS, Arduino  
-**Simulation:** NumPy, OpenCV, Matplotlib, Trimesh, ECOS Solver  
-**Embedded & Hardware:** Dynamixel Motors, UWB (DW3000), RPLidar, Raspberry Pi  
-**Tools:** SolidWorks, Fusion 360, LTSpice, LabVIEW  
-**Workflow:** Git, GitHub, VSCode, LaTeX  
+**Programming Languages:** Python, C++, C, Java, JavaScript, CSS, HTML, Typescript MATLAB, ROS, Linux, Bash, 
+**AI & ML:** TensorFlow, PyTorch, pandas, OpenCV, scikit_learn
+**Embedded & Hardware:** Dynamixel Motors, Lidar, Raspberry Pi, UWB (DW3000), Arduino, SLAM
+**Tools:** SolidWorks, Fusion 360, LTSpice, LabVIEW, Simulink, 
+**Workflow:** Git, GitHub, VSCode, Docker, LaTeX  
 
 ---
 
