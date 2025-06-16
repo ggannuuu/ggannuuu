@@ -44,7 +44,7 @@ TBD, Credential before the Submission
 
 
 
-### [Autonomous Tracking Gym Robot](https://github.com/geonwoo3/gymbot_ros)
+### [Autonomous Tracking Gym Robot](https://github.com/ggannuuu/FitBuddy)
 
 
 A mobile robot designed to autonomously follow users in indoor gym environments by combining Ultra-Wideband (UWB) positioning with LiDAR-based obstacle avoidance. Built using ROS, the system integrates real-time localization, trajectory planning, and motor control to enable safe, smooth, and responsive tracking in cluttered indoor spaces.
